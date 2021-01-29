@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Provider</string>
+    <string name="app_read">DatabaseRead</string>
+    <string name="app_write">DatabaseWrite</string>
+</resources>
